@@ -1,4 +1,4 @@
-This repo content various codes on C/CPP concepts required for gate.
+This repo contains various codes on C/CPP concepts required for gate.
 Feel free to push and pull code.
 
 To run the code on online compiler please use below link
